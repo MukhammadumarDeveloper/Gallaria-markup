@@ -1,4 +1,4 @@
 # Gallaria-maketini-verstkasi
-Html va kss yordamida yaratilgan shaffof login forma
+HTML va CSS yordamida yaratilgan shaffof login forma
 
-Bu proyekt Gallaria PSD maketining html va css ga o'tkazilgani!
+Bu proyekt Gallaria PSD maketining html va css ga o'tkazilgan!
